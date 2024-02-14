@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0>"
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Favorite Recipe</title>
     <style>
         body {
@@ -11,7 +11,7 @@
     }
     h1 {
         color:plum;
-        font-size: 2em:
+        font-size: 2em;
         font-family: Arial, Helvetica, sans-serif;
     }
     p {
@@ -56,9 +56,8 @@
             <li>Watch your omelet carefully, as it begins to harden on one side, flip to the other.</li>
             <li>Once your omelet forms a firm consistency, place it on a plate and serve.</li>
           </ol>
-        </section>
-       
-        <p> style="color: blue; text-indent: 2em;">This is my favorite recipe because it takes 5 minutes to prepare and is filled with mouth watering flavor.</p>
-    <a href="https://joyfoodsunshine.com/omelette-recipe/">Link to More Recipes.</a>
+        </section>   
+<p> style="color: blue; text-indent: 2em;">This is my favorite recipe because it takes 5 minutes to prepare and is filled with mouth watering flavor.</p>
+ <a href="https://joyfoodsunshine.com/omelette-recipe/">Link to More Recipes.</a>
  </body>
 </html>
