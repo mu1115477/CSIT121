@@ -1,0 +1,28 @@
+body {
+    background-color: lightblue;
+    color: darkslategrey;
+    font-size: 16px; 
+    margin: 0; 
+}
+
+h1, h2 {
+    color: plum;
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0; 
+}
+
+p {
+    background-color: paleturquoise;
+    color: blue;
+    margin-bottom: 10px; /* Adding margin at the bottom of paragraphs */
+    text-transform: uppercase; /* Transform text to uppercase */
+}
+
+ul, ol {
+    background-color: cadetblue;
+    font-family: monospace;
+    color: azure;
+    margin-left: 20px; /* Adding margin to the left of lists */
+    text-transform: lowercase; /* Transform text to lowercase */
+}
